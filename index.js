@@ -1,5 +1,5 @@
 let startIndex = 0;
-const itemsPerPage = 20; 
+const itemsPerPage = 4; 
 
 const container = document.getElementById("container");
 
